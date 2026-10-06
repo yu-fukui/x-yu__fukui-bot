@@ -25,6 +25,9 @@ concurrency:
 
 jobs:
   post:
+    # 停止中（代表の指示 2026-10-06「停止してください」。X API の利用料残高切れ 402 credits depleted で 10/4 15:00 以降すべて失敗していたため）。
+    # 再開するときはこの if 行を消す。
+    if: false
     runs-on: ubuntu-latest
     permissions:
       contents: write
