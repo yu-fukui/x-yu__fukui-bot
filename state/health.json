@@ -1,6 +1,6 @@
 {
   "リポジトリ": "yu-fukui/x-yu__fukui-bot",
-  "作成時刻": "2026-10-06 04:50 JST",
+  "作成時刻": "2026-10-06 20:00 JST",
   "今日": "2026-10-06",
   "状態": "ok",
   "明日のキュー": {
@@ -52,13 +52,13 @@
       "ファイル": "beauty-research.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-05 11:21 JST",
+        "時刻": "2026-10-06 12:18 JST",
         "結果": "success",
         "きっかけ": "schedule",
-        "URL": "https://github.com/yu-fukui/x-yu__fukui-bot/actions/runs/37255087446"
+        "URL": "https://github.com/yu-fukui/x-yu__fukui-bot/actions/runs/37408360688"
       },
-      "最後の成功": "2026-10-05 11:21 JST",
-      "今日走ったか": false,
+      "最後の成功": "2026-10-06 12:18 JST",
+      "今日走ったか": true,
       "24時間の実行": 2,
       "24時間の失敗": 0,
       "判定": "成功"
@@ -68,14 +68,14 @@
       "ファイル": "coupon-search.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-09-30 08:15 JST",
+        "時刻": "2026-10-06 10:44 JST",
         "結果": "success",
-        "きっかけ": "repository_dispatch",
-        "URL": "https://github.com/yu-fukui/x-yu__fukui-bot/actions/runs/36644202345"
+        "きっかけ": "schedule",
+        "URL": "https://github.com/yu-fukui/x-yu__fukui-bot/actions/runs/37400646162"
       },
-      "最後の成功": "2026-09-30 08:15 JST",
-      "今日走ったか": false,
-      "24時間の実行": 0,
+      "最後の成功": "2026-10-06 10:44 JST",
+      "今日走ったか": true,
+      "24時間の実行": 1,
       "24時間の失敗": 0,
       "判定": "成功"
     },
@@ -91,7 +91,7 @@
       },
       "最後の成功": "2026-10-05 15:02 JST",
       "今日走ったか": false,
-      "24時間の実行": 1,
+      "24時間の実行": 0,
       "24時間の失敗": 0,
       "最後の失敗": {
         "時刻": "2026-09-25 17:59 JST",
@@ -104,14 +104,14 @@
       "ファイル": "health-snapshot.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-06 04:39 JST",
+        "時刻": "2026-10-06 20:00 JST",
         "結果": "in_progress",
-        "きっかけ": "schedule",
-        "URL": "https://github.com/yu-fukui/x-yu__fukui-bot/actions/runs/37364839865"
+        "きっかけ": "workflow_run",
+        "URL": "https://github.com/yu-fukui/x-yu__fukui-bot/actions/runs/37453551300"
       },
-      "最後の成功": "2026-10-05 20:01 JST",
+      "最後の成功": "2026-10-06 04:39 JST",
       "今日走ったか": true,
-      "24時間の実行": 2,
+      "24時間の実行": 3,
       "24時間の失敗": 0,
       "判定": "実行中"
     },
@@ -127,7 +127,7 @@
       },
       "最後の成功": "2026-10-05 13:46 JST",
       "今日走ったか": false,
-      "24時間の実行": 1,
+      "24時間の実行": 0,
       "24時間の失敗": 0,
       "判定": "成功"
     },
@@ -156,13 +156,13 @@
       "ファイル": "neta-collect.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-05 09:18 JST",
+        "時刻": "2026-10-06 10:58 JST",
         "結果": "success",
         "きっかけ": "schedule",
-        "URL": "https://github.com/yu-fukui/x-yu__fukui-bot/actions/runs/37246975406"
+        "URL": "https://github.com/yu-fukui/x-yu__fukui-bot/actions/runs/37401822385"
       },
-      "最後の成功": "2026-10-05 09:18 JST",
-      "今日走ったか": false,
+      "最後の成功": "2026-10-06 10:58 JST",
+      "今日走ったか": true,
       "24時間の実行": 1,
       "24時間の失敗": 0,
       "最後の失敗": {
@@ -183,7 +183,7 @@
       },
       "最後の成功": "2026-10-05 10:30 JST",
       "今日走ったか": false,
-      "24時間の実行": 1,
+      "24時間の実行": 0,
       "24時間の失敗": 0,
       "最後の失敗": {
         "時刻": "2026-09-23 21:28 JST",
@@ -228,14 +228,14 @@
       "ファイル": "test.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-03 09:32 JST",
+        "時刻": "2026-10-06 14:21 JST",
         "結果": "success",
         "きっかけ": "push",
-        "URL": "https://github.com/yu-fukui/x-yu__fukui-bot/actions/runs/37082511439"
+        "URL": "https://github.com/yu-fukui/x-yu__fukui-bot/actions/runs/37418138430"
       },
-      "最後の成功": "2026-10-03 09:32 JST",
-      "今日走ったか": false,
-      "24時間の実行": 0,
+      "最後の成功": "2026-10-06 14:21 JST",
+      "今日走ったか": true,
+      "24時間の実行": 3,
       "24時間の失敗": 0,
       "判定": "成功"
     },
@@ -276,52 +276,52 @@
       "ファイル": "x-compose.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-05 20:00 JST",
-        "結果": "success",
+        "時刻": "2026-10-06 20:00 JST",
+        "結果": "skipped",
         "きっかけ": "repository_dispatch",
-        "URL": "https://github.com/yu-fukui/x-yu__fukui-bot/actions/runs/37300175229"
+        "URL": "https://github.com/yu-fukui/x-yu__fukui-bot/actions/runs/37453544590"
       },
       "最後の成功": "2026-10-05 20:00 JST",
-      "今日走ったか": false,
+      "今日走ったか": true,
       "24時間の実行": 1,
       "24時間の失敗": 0,
       "最後の失敗": {
         "時刻": "2026-09-25 20:00 JST",
         "URL": "https://github.com/yu-fukui/x-yu__fukui-bot/actions/runs/36127050528"
       },
-      "判定": "成功"
+      "判定": "失敗"
     },
     {
       "名前": "X 予約投稿",
       "ファイル": "x-post.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-06 04:50 JST",
-        "結果": "pending",
+        "時刻": "2026-10-06 20:00 JST",
+        "結果": "skipped",
         "きっかけ": "repository_dispatch",
-        "URL": "https://github.com/yu-fukui/x-yu__fukui-bot/actions/runs/37365961823"
+        "URL": "https://github.com/yu-fukui/x-yu__fukui-bot/actions/runs/37453545261"
       },
       "最後の成功": null,
       "今日走ったか": true,
       "24時間の実行": 100,
-      "24時間の失敗": 98,
+      "24時間の失敗": 64,
       "最後の失敗": {
-        "時刻": "2026-10-06 04:30 JST",
-        "URL": "https://github.com/yu-fukui/x-yu__fukui-bot/actions/runs/37363835464"
+        "時刻": "2026-10-06 14:20 JST",
+        "URL": "https://github.com/yu-fukui/x-yu__fukui-bot/actions/runs/37418023496"
       },
-      "判定": "実行中"
+      "判定": "失敗"
     },
     {
       "名前": "X 日次レビュー",
       "ファイル": "x-review.yml",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-06 04:17 JST",
+        "時刻": "2026-10-06 19:15 JST",
         "結果": "success",
-        "きっかけ": "schedule",
-        "URL": "https://github.com/yu-fukui/x-yu__fukui-bot/actions/runs/37362314794"
+        "きっかけ": "repository_dispatch",
+        "URL": "https://github.com/yu-fukui/x-yu__fukui-bot/actions/runs/37448538476"
       },
-      "最後の成功": "2026-10-06 04:17 JST",
+      "最後の成功": "2026-10-06 19:15 JST",
       "今日走ったか": true,
       "24時間の実行": 2,
       "24時間の失敗": 0,
@@ -332,21 +332,20 @@
       "ファイル": "pages-build-deployment",
       "有効": true,
       "最後の実行": {
-        "時刻": "2026-10-06 04:27 JST",
-        "結果": "failure",
+        "時刻": "2026-10-06 14:21 JST",
+        "結果": "success",
         "きっかけ": "dynamic",
-        "URL": "https://github.com/yu-fukui/x-yu__fukui-bot/actions/runs/37363546128"
+        "URL": "https://github.com/yu-fukui/x-yu__fukui-bot/actions/runs/37418137642"
       },
-      "最後の成功": "2026-10-06 04:22 JST",
+      "最後の成功": "2026-10-06 14:21 JST",
       "今日走ったか": true,
       "24時間の実行": 11,
-      "24時間の失敗": 1,
+      "24時間の失敗": 2,
       "最後の失敗": {
-        "時刻": "2026-10-06 04:27 JST",
-        "URL": "https://github.com/yu-fukui/x-yu__fukui-bot/actions/runs/37363546128",
-        "理由": []
+        "時刻": "2026-10-06 04:50 JST",
+        "URL": "https://github.com/yu-fukui/x-yu__fukui-bot/actions/runs/37365998922"
       },
-      "判定": "失敗"
+      "判定": "成功"
     }
   ]
 }
