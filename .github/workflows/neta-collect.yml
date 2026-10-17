@@ -9,8 +9,7 @@ on:
   # 外部 cron（cron-job.org）から叩く入口。GitHub の schedule は遅延するため。
   repository_dispatch:
     types: [neta-collect]
-  schedule:
-    - cron: "0 22 * * *"
+  # 2026-10-17 代表「停止」（統括経由）：X のボットを止めるため、GitHub の schedule を外した。手で回すことはできる
   workflow_dispatch:
     inputs:
       dry_run:
