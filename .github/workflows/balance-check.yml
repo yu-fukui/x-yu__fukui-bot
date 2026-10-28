@@ -24,6 +24,9 @@ concurrency:
 
 jobs:
   check:
+    # 止めている（2026-10-28 代表「x-yu__fukui-bot「残高チェック」を停止して」）。X のボットは鍵が無効のまま止めているため。
+    # 呼ばれても（定時・cron-job.org・手動）中身は動かない。戻すときはこの if の行を消す
+    if: ${{ false }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
