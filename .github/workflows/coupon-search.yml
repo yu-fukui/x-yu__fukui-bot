@@ -18,6 +18,8 @@ concurrency:
 
 jobs:
   search:
+    # 2026-11-03 代表「search が失敗。停止してください」：止める（消さない）。401（鍵の認証エラー）で 10/20 から毎回失敗していた
+    if: false
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
